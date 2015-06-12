@@ -11,7 +11,6 @@ class pascaltri
             System.out.print (" ");
             
             for (int j = 0; j <= i; j++)
-            System.out.print (arr[j] + " ");bv
             System.out.println();
             
             for (int j = i + 1; j > 0; j--)
